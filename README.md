@@ -54,7 +54,8 @@ print(f"Received {data!r}")
 ![Screenshot 2024-03-06 141632](https://github.com/Ragavikrishnan/Echoserver/assets/144870428/3323b8a4-14de-41f1-a95f-302561987720)
 
 ## CLIENT SIDE:
-![Screenshot 2024-03-06 141632](https://github.com/Ragavikrishnan/Echoserver/assets/144870428/affa7c28-e6da-4f95-bc5e-fd4432b65e53)
+![123](https://github.com/Ragavikrishnan/Echoserver/assets/144870428/c429af65-54f7-481d-8c69-42bc81b8e312)
+
 
 
 ## RESULT:
